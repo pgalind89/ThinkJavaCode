@@ -20,6 +20,7 @@ public class Exercise {
 
     public static void ping() {
         System.out.println(".");
+        baffle();
     }
 
 }
